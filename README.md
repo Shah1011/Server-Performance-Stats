@@ -25,4 +25,4 @@ This script gives you the following stats:
 - Top 5 processes by CPU usage
 - Top 5 processes by memory usage
 
-Made By Shah 
+Made By Shah for https://roadmap.sh/projects/server-stats
